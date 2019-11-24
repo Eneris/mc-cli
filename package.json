@@ -1,0 +1,15 @@
+{
+  "name": "mc-cli",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "optionator": "^0.8.3",
+    "rcon-client": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "bin": {
+    "mcping": "./cli/mcping.js",
+    "rcon": "./cli/rcon.js"
+  }
+}
