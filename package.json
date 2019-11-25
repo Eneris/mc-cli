@@ -1,8 +1,12 @@
 {
-  "name": "mc-cli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@eneris/mc-cli",
+  "version": "1.0.1",
+  "description": "Basic Node.js CLI toolkit for Minecraft servers",
   "type": "module",
+  "license": "Beerware",
+  "repository": {
+    "url": "https://github.com/Eneris/mc-cli.git"
+  },
   "dependencies": {
     "optionator": "^0.8.3",
     "rcon-client": "^4.2.0",
